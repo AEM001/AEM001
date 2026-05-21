@@ -17,9 +17,8 @@
 
 > Currently pursuing my bachelor's degree at **Southeast University**, I explore the frontier of AI — making models faster, smaller, and more accessible.
 
-- **`Algorithm`** Efficient transformer architectures & training paradigms
-- **`System`** Scalable inference, distributed training, hardware-aware optimization  
-- **`Mission`** Bridge the gap between cutting-edge research and practical deployment
+- **`AI Systems`** Building scalable infrastructure for LLM efficient inference
+- **`Representation Learning`** Studying how models learn and represent information
 
 <br/>
 
@@ -36,15 +35,8 @@ Building scalable infrastructure for distributed training and efficient inferenc
 <td width="33%" valign="top">
 
 ### 🔮 Representation Learning
-Studying how models learn and represent information, from embeddings to latent spaces.
+Studying how models learn and represent information.
 
-</td>
-<td width="33%" valign="top">
-
-### 🧠 LLMs
-Exploring transformer architectures and training paradigms for foundation models.
-
-</td>
 </tr>
 </table>
 
