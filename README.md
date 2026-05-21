@@ -70,7 +70,7 @@ Exploring transformer architectures and training paradigms for foundation models
 </p>
 
 <p align="center">
-  <img src="Screenshot 2026-05-21 at 20.29.19.png" alt="Personal Website Screenshot" width="800"/>
+  <img src="Screenshot 2026-05-21 at 20.29.19.png" alt="Personal Website Screenshot" width="400"/>
 </p>
 
 <br/>
