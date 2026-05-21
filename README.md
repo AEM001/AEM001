@@ -4,27 +4,16 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Playfair+Display&weight=600&size=32&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Hello%2C+I'm+Albert;LLM+Researcher;AI+Systems+Enthusiast;Efficiency+Optimizer" alt="Typing SVG" /></a>
 
 <p align="center">
-  <samp>
-    <a href="https://transcendence2006.site/">Blog</a> . 
-    <a href="https://github.com/transcendence2006">GitHub</a>
-  </samp>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/SEU-Student-2563EB?style=flat-square&logo=academia&logoColor=white" alt="SEU"/>
-  <img src="https://img.shields.io/badge/Focus-LLM-2563EB?style=flat-square" alt="LLM"/>
   <img src="https://img.shields.io/badge/Focus-AI%20Systems-2563EB?style=flat-square" alt="AI Systems"/>
-</p>
+</p>    
 
-
-
-**`Researcher . Developer . Student . Dreamer`**
 
 </div>
 
 <br/>
 
-## About
+## About Me
 
 > Currently pursuing my bachelor's degree at **Southeast University**, I explore the frontier of AI — making models faster, smaller, and more accessible.
 
