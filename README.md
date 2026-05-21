@@ -38,16 +38,22 @@
 
 <table>
 <tr>
-<td width="50%" valign="top">
-
-### 🧠 LLM
-Large Language Models
-
-</td>
-<td width="50%" valign="top">
+<td width="33%" valign="top">
 
 ### ⚙️ AI Systems
-AI Systems
+Building scalable infrastructure for distributed training and efficient inference.
+
+</td>
+<td width="33%" valign="top">
+
+### 🔮 Representation Learning
+Studying how models learn and represent information, from embeddings to latent spaces.
+
+</td>
+<td width="33%" valign="top">
+
+### 🧠 LLMs
+Exploring transformer architectures and training paradigms for foundation models.
 
 </td>
 </tr>
@@ -55,7 +61,7 @@ AI Systems
 
 <br/>
 
-## Writing
+## Sharing
 
 <p align="center">
   <a href="https://transcendence2006.site/">
@@ -63,21 +69,12 @@ AI Systems
   </a>
 </p>
 
+<p align="center">
+  <img src="Screenshot 2026-05-21 at 20.29.19.png" alt="Personal Website Screenshot" width="800"/>
+</p>
+
 <br/>
 
-## Connect
-
-<div align="center">
-
-<a href="https://github.com/transcendence2006" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-@transcendence2006-1a1a1a?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-&nbsp;
-<a href="https://transcendence2006.site/" target="_blank">
-<img src="https://img.shields.io/badge/Blog-transcendence2006.site-2563EB?style=flat-square&logo=ghost&logoColor=white" alt="Blog"/>
-</a>
-
-</div>
 
 ---
 
@@ -85,7 +82,7 @@ AI Systems
 
 <samp>
 
-*Built with curiosity and caffeine.*
+*Built with curiosity and energy.*
 
 <img src="https://komarev.com/ghpvc/?username=transcendence2006&color=2563EB&style=flat-square&label=Views" alt="Profile Views"/>
 

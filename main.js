@@ -172,7 +172,7 @@ document.querySelectorAll('.section-title, .hero-title').forEach(el => {
 document.querySelectorAll('.research-grid, .blog-grid').forEach(grid => {
     const cards = grid.querySelectorAll('.research-card, .blog-card');
     cards.forEach((card, index) => {
-        card.style.animationDelay = `${index * 0.1}s`;
+        card.style.animationDelay = `${index * 0.15}s`;
         card.classList.add('stagger-animate');
     });
 });
