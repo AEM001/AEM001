@@ -16,27 +16,7 @@
   <img src="https://img.shields.io/badge/Focus-AI%20Systems-2563EB?style=flat-square" alt="AI Systems"/>
 </p>
 
-</div>
 
----
-
-```
-      ___         ___         ___   
-     /\  \       /\  \       /\  \  
-    /::\  \     /::\  \     /::\  \ 
-   /:/\:\  \   /:/\:\  \   /:/\:\  \
-  /:/  \:\__\ /::\~\:\__\ /::\~\:\__\
- /:/__/ \:|__/:/\:\ \:|__/:/\:\ \:|__|
- \:\  \ /:/:/\:\~\:\/:/  \_\:\~\:\/:/
-  \:\  /:/:/  \:\ \::/      \:\ \::/
-   \:\/:/:/    \:\/:/        \:\/:/
-    \::/__/      \::/          \::/
-     ~~           ~~            ~~
-```
-
-<br/>
-
-<div align="center">
 
 **`Researcher . Developer . Student . Dreamer`**
 
@@ -58,22 +38,16 @@
 
 <table>
 <tr>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
 ### 🧠 LLM
-Exploring efficient architectures, novel fine-tuning methods, and the science of scaling.
+Large Language Models
 
 </td>
-<td width="33%" valign="top">
+<td width="50%" valign="top">
 
-### ⚙️ Systems
-Designing distributed training frameworks and scalable inference pipelines.
-
-</td>
-<td width="33%" valign="top">
-
-### ⚡ Efficiency
-Quantization, pruning, distillation — making AI accessible everywhere.
+### ⚙️ AI Systems
+AI Systems
 
 </td>
 </tr>
@@ -88,15 +62,6 @@ Quantization, pruning, distillation — making AI accessible everywhere.
     <img src="https://img.shields.io/badge/Visit%20My%20Blog-transcendence2006.site-1a1a1a?style=for-the-badge&logo=ghost&logoColor=white&labelColor=2563EB" alt="Blog"/>
   </a>
 </p>
-
-<br/>
-
-## GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=transcendence2006&show_icons=true&theme=default&hide_border=true&bg_color=fafaf8&title_color=1a1a1a&text_color=6b6b6b&icon_color=2563eb&border_radius=12" alt="GitHub Stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=transcendence2006&layout=compact&theme=default&hide_border=true&bg_color=fafaf8&title_color=1a1a1a&text_color=6b6b6b&border_radius=12" alt="Top Languages" height="165"/>
-</div>
 
 <br/>
 
